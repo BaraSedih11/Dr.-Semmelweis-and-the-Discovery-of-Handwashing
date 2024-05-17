@@ -5,7 +5,7 @@
    ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing) ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing) [![Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-380/)
 [![Pip Version](https://img.shields.io/badge/pip-21.0-orange)](https://pypi.org/project/pip/21.0/)
  ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/main)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/Titanic-Survival-Model/releases/tag/v1.0.0)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/releases/tag/v1.0.0)
 [![Contributors](https://img.shields.io/github/contributors/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)](https://github.com/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing/graphs/contributors)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/Dr.-Semmelweis-and-the-Discovery-of-Handwashing)
 <!-- ![GitHub issues](https://img.shields.io/github/issues-raw/BaraSedih11/Bookstore)  -->
